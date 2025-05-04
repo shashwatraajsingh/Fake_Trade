@@ -1,0 +1,106 @@
+{
+  "1035841176": {
+    "eth_balance": 9000,
+    "usd_balance": 1825850,
+    "transactions": [
+      {
+        "type": "SELL",
+        "amount": 1000,
+        "price": 1825.85,
+        "usd_amount": 1825850,
+        "date": "2025-05-03T19:00:15.237Z"
+      }
+    ]
+  },
+  "1504868486": {
+    "eth_balance": 9900,
+    "usd_balance": 182602,
+    "transactions": [
+      {
+        "type": "SELL",
+        "amount": 100,
+        "price": 1826.02,
+        "usd_amount": 182602,
+        "date": "2025-05-03T17:07:22.405Z"
+      }
+    ]
+  },
+  "2115764469": {
+    "eth_balance": 9984.018035292,
+    "usd_balance": 79343.43,
+    "transactions": [
+      {
+        "type": "SELL",
+        "amount": 12,
+        "price": 1836.19,
+        "usd_amount": 22034.28,
+        "date": "2025-05-03T13:49:36.527Z"
+      },
+      {
+        "type": "BUY",
+        "amount": 0.5446059503646137,
+        "price": 1836.19,
+        "usd_amount": 1000,
+        "date": "2025-05-03T13:50:15.502Z"
+      },
+      {
+        "type": "SELL",
+        "amount": 5,
+        "price": 1835.51,
+        "usd_amount": 9177.55,
+        "date": "2025-05-03T14:12:54.163Z"
+      },
+      {
+        "type": "SELL",
+        "amount": 5,
+        "price": 1826.52,
+        "usd_amount": 9132.6,
+        "date": "2025-05-03T18:54:28.137Z"
+      },
+      {
+        "type": "BUY",
+        "amount": 5.472884593282581,
+        "price": 1827.19,
+        "usd_amount": 10000,
+        "date": "2025-05-03T19:13:02.472Z"
+      },
+      {
+        "type": "BUY",
+        "amount": 0.0005447483534981015,
+        "price": 1835.71,
+        "usd_amount": 1,
+        "date": "2025-05-03T19:43:03.516Z"
+      }
+    ]
+  },
+  "5950741458": {
+    "eth_balance": 9000.549949129705,
+    "usd_balance": 1832520,
+    "transactions": [
+      {
+        "type": "SELL",
+        "amount": 1000,
+        "price": 1833.52,
+        "usd_amount": 1833520,
+        "date": "2025-05-03T14:36:52.621Z"
+      },
+      {
+        "type": "BUY",
+        "amount": 0.5499491297055022,
+        "price": 1818.35,
+        "usd_amount": 1000,
+        "date": "2025-05-03T17:28:54.886Z"
+      }
+    ]
+  },
+  "5120412375": {
+    "eth_balance": 10000,
+    "usd_balance": 0,
+    "transactions": []
+  },
+  "6244214458": {
+    "eth_balance": 10000,
+    "usd_balance": 0,
+    "transactions": []
+  }
+}
