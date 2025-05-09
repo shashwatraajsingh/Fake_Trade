@@ -12,6 +12,19 @@
       }
     ]
   },
+  "1259905930": {
+    "eth_balance": 9875,
+    "usd_balance": 228311.25,
+    "transactions": [
+      {
+        "type": "SELL",
+        "amount": 125,
+        "price": 1826.49,
+        "usd_amount": 228311.25,
+        "date": "2025-05-04T09:46:34.684Z"
+      }
+    ]
+  },
   "1504868486": {
     "eth_balance": 9900,
     "usd_balance": 182602,
@@ -27,7 +40,7 @@
   },
   "2115764469": {
     "eth_balance": 9984.018035292,
-    "usd_balance": 79343.43,
+    "usd_balance": 179343.43,
     "transactions": [
       {
         "type": "SELL",

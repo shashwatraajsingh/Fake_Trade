@@ -5,10 +5,15 @@ const axios = require('axios');
 // Constants
 const USER_DATA_FILE = 'user_data.json';
 const DEFAULT_ETH = 10000;
-const PRICE_CHECK_INTERVAL = 10000; // Check price every 30 seconds
+const PRICE_CHECK_INTERVAL = 10000; // Check price every 10 seconds
 
 // Bot initialization
-const bot = new Telegraf(process.env.BOT_TOKEN || '7995534686:AAGU1WUObXeRlk0b8RqVoqj9Ty_H8ZXQJuI');
+require('dotenv').config();
+
+
+const bot = new Telegraf(process.env.BOT_TOKEN);
+
+// const bot = new Telegraf(process.env.BOT_TOKEN || '7995534686:AAGU1WUObXeRlk0b8RqVoqj9Ty_H8ZXQJuI');
 
 // Enable logging
 bot.use((ctx, next) => {
